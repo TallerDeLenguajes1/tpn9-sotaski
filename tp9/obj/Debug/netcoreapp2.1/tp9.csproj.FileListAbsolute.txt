@@ -1,0 +1,11 @@
+C:\taller1_2020(C#)\tpn9-NTVGcele\tp9\bin\Debug\netcoreapp2.1\tp9.deps.json
+C:\taller1_2020(C#)\tpn9-NTVGcele\tp9\bin\Debug\netcoreapp2.1\tp9.runtimeconfig.json
+C:\taller1_2020(C#)\tpn9-NTVGcele\tp9\bin\Debug\netcoreapp2.1\tp9.runtimeconfig.dev.json
+C:\taller1_2020(C#)\tpn9-NTVGcele\tp9\bin\Debug\netcoreapp2.1\tp9.dll
+C:\taller1_2020(C#)\tpn9-NTVGcele\tp9\bin\Debug\netcoreapp2.1\tp9.pdb
+C:\taller1_2020(C#)\tpn9-NTVGcele\tp9\obj\Debug\netcoreapp2.1\tp9.csprojAssemblyReference.cache
+C:\taller1_2020(C#)\tpn9-NTVGcele\tp9\obj\Debug\netcoreapp2.1\tp9.csproj.CoreCompileInputs.cache
+C:\taller1_2020(C#)\tpn9-NTVGcele\tp9\obj\Debug\netcoreapp2.1\tp9.AssemblyInfoInputs.cache
+C:\taller1_2020(C#)\tpn9-NTVGcele\tp9\obj\Debug\netcoreapp2.1\tp9.AssemblyInfo.cs
+C:\taller1_2020(C#)\tpn9-NTVGcele\tp9\obj\Debug\netcoreapp2.1\tp9.dll
+C:\taller1_2020(C#)\tpn9-NTVGcele\tp9\obj\Debug\netcoreapp2.1\tp9.pdb
